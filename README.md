@@ -1,2 +1,2 @@
-# alumni-management-system
-dbms mini project
+Alumni Management System – DBMS Coursework Project
+This project aimed to design and implement a database-driven application for managing alumni information of an institution. The system stores details such as personal information, graduation year, contact details, and employment records of alumni. Key features include searching and filtering alumni, updating profiles, and maintaining event participation records. The database was implemented using SQL with proper normalization to ensure data integrity, and the interface allowed efficient retrieval and management of alumni data. This project demonstrated practical application of database design, ER modeling, and query optimization.
